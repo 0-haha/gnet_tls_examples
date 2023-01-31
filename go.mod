@@ -2,7 +2,7 @@ module gnet_test
 
 require (
 	github.com/panjf2000/gnet/v2 v2.2.5
-	github.com/secure-for-ai/goktls v1.20.0-rc3
+	github.com/secure-for-ai/goktls v1.20.0-rc3.2
 )
 
 require (
@@ -14,7 +14,7 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 )
 
-replace github.com/panjf2000/gnet/v2 v2.2.5 => github.com/0-haha/gnet/v2 v2.2.5-tls-rc0
+replace github.com/panjf2000/gnet/v2 v2.2.5 => github.com/0-haha/gnet/v2 v2.2.5-tls-rc1
 
 // for deveoplement
 // replace github.com/panjf2000/gnet/v2 v2.2.5 => ../gnet/
