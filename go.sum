@@ -1,5 +1,7 @@
-github.com/0-haha/gnet/v2 v2.2.5-tls-rc1 h1:EE5GGl7aDBZATVBC56hyuWZoSm1Lr1eMR9IWgA0M1D4=
-github.com/0-haha/gnet/v2 v2.2.5-tls-rc1/go.mod h1:RrDHPIj5v/m0chu80+C1TtFEAmEdk9Syjms6k1/+HkY=
+github.com/0-haha/gnet/v2 v2.2.6-tls-rc2 h1:uK1cZuekr0g2c9NhV1mDn8X0DYHqw8LwZSFI15q6+NA=
+github.com/0-haha/gnet/v2 v2.2.6-tls-rc2/go.mod h1:0+cqU31Z621Kjss+VKEgknA0W9Mls8d80wXR80IO7Zc=
+github.com/0-haha/gnet_go_tls/v120 v120.0.1 h1:oFVjzpqQO4k3MfbU211oFSx8sRSALXto7T5u2bbYqTI=
+github.com/0-haha/gnet_go_tls/v120 v120.0.1/go.mod h1:ZDwYfvBBzRwvZNENOXeVI+QjVDKr5r8aEKLMDSchRkI=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/benbjohnson/clock v1.1.0 h1:Q92kusRqC1XV2MjkWETPvjJVqKetz1OzxZB7mHJLju8=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
@@ -15,12 +17,12 @@ github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
-github.com/secure-for-ai/goktls v1.20.0-rc3.2 h1:gPGgdaXmbIB6ZLBw4AeTJgNZkOwnd7wzagJyhOILpE0=
-github.com/secure-for-ai/goktls v1.20.0-rc3.2/go.mod h1:JhIqSh5/VXJbuwLtDQjzlWdmPLYuV6szY+N9eWJ91c0=
+github.com/secure-for-ai/goktls v1.20.1-v0 h1:Io/r+BWD+vaa9lKSP8FXM9NrPlfZhJ24lEXEYBh1vIA=
+github.com/secure-for-ai/goktls v1.20.1-v0/go.mod h1:JhIqSh5/VXJbuwLtDQjzlWdmPLYuV6szY+N9eWJ91c0=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKsk=
+github.com/stretchr/testify v1.8.2 h1:+h33VjcLVPDHtOdpUCuF+7gSuG3yGIftsP1YvFihtJ8=
 github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 go.uber.org/atomic v1.7.0/go.mod h1:fEN4uk6kAWBTFdckzkM89CLk9XfWZrxpCo0nPH17wJc=
